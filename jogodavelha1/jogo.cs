@@ -15,6 +15,7 @@ namespace jogodavelha1
         public jogo()
         {
             InitializeComponent();
+
             but11.Click += new EventHandler(Clic);
             but12.Click += new EventHandler(Clic);
             but13.Click += new EventHandler(Clic);
@@ -30,6 +31,7 @@ namespace jogodavelha1
 
         private void Clic (object sender, EventArgs e)
         {
+            
             Button Bton = ((Button)sender);
             
             if (Bton.Text == "")
@@ -93,10 +95,16 @@ namespace jogodavelha1
             {
                 paneljogo.Enabled = false;
                 MessageBox.Show("O" + Bton.Text + " é o vencedor");
-            }else if (but11.Text == but12.Text && but11.Text == but13.Text && but11.Text  != "")
+            }
+            else if (but11.Text == but12.Text && but11.Text == but13.Text && but11.Text != "")
             {
                 paneljogo.Enabled = false;
                 MessageBox.Show("O" + Bton.Text + " é o vencedor");
+            }
+            else 
+            {
+                paneljogo.Enabled = false;
+                MessageBox.Show("Empate!!!!!");
             }
         }
 

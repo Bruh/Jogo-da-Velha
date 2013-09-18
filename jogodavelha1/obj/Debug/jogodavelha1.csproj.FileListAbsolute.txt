@@ -7,3 +7,4 @@ C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\jogodavelha1\jogodave
 C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\jogodavelha1\jogodavelha1\obj\Debug\jogodavelha1.csproj.GenerateResource.Cache
 C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\jogodavelha1\jogodavelha1\obj\Debug\jogodavelha1.exe
 C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\jogodavelha1\jogodavelha1\obj\Debug\jogodavelha1.pdb
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\jogodavelha1\jogodavelha1\obj\Debug\jogodavelha1.csprojResolveAssemblyReference.cache

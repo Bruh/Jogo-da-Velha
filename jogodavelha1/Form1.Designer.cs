@@ -150,13 +150,13 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Red;
-            this.label1.Location = new System.Drawing.Point(45, 13);
+            this.label1.Location = new System.Drawing.Point(17, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(220, 26);
+            this.label1.Size = new System.Drawing.Size(258, 20);
             this.label1.TabIndex = 30;
-            this.label1.Text = "Escolha a sua opção:";
+            this.label1.Text = "Informe nome e opção de jogo:";
             // 
             // label2
             // 
